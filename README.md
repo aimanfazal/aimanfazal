@@ -7,24 +7,18 @@
   />
 </div>
 
-###
-
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Repeat"
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Repeat"
     alt="Typing SVG"
   />
 </div>
-
-###
 
 <h3 data-importer="text" align="center">Behind the Screen</h2>
 
 <br clear="both">
 
 <p data-importer="text" align="left">"Curiosity writes the code, coffee keeps it running. I'm a Computer Science student passionate about building web applications, exploring new technologies, and tackling challenging problems. I spend most of my time learning, creating, and turning ideas into projects—and I'm always open to collaborations, new challenges, and conversations with fellow builders."</p>
-
-###
 
 <h3 data-importer="text" align="center">Tech Stack</h2>
 
@@ -81,8 +75,6 @@
   <img width="11" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="26" alt="latex logo"  />
 </div>
-
-###
 
 <br clear="both">
 
