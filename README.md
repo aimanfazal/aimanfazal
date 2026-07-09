@@ -82,7 +82,11 @@
   <img src="https://raw.githubusercontent.com/aimanfazal/aimanfazal/activity-graph-output/activity-graph.svg?radius=5&theme=nightowl&area=true&order=5&line=FF652F&title_color=FFE400&point=FFE400&bg_color=0D1117&color=FFFFFF&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"/>
   <br>
   <br>
-    <img src="https://streak-stats.demolab.com?user=aimanfazal&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=aimanfazal&theme=codeSTACKr&hide_border=true&border_radius=5"
+    height="200"
+    alt="streak graph"
+  />
 </div>
 
 ###
