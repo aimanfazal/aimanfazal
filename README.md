@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=%3E%20Aiman%20Fazal&font=Source%20Code%20Pro&fontSize=45&fontColor=ffffff&desc=aimanfazal@github:~$&descSize=20&descColor=9ca3af&descAlign=50&descAlignY=70&animation=fadeIn&color=gradient"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=%3E%20Aiman%20Fazal&font=Source%20Code%20Pro&fontSize=45&fontColor=ffffff&desc=aimanfazal@github:~$&descSize=20&descColor=9ca3af&descAlign=50&descAlignY=70&animation=fadeIn&color=ff1221"
     alt="Aiman Fazal Header"
   />
 </div>
@@ -69,6 +69,8 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="26" alt="canva logo"  />
   <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26" alt="mysql logo"  />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=ps" height="26" alt="adobephotoshop logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="26" alt="markdown logo"  />
@@ -101,4 +103,10 @@
   <a href="https://paypal.me/aimanfazal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="paypal logo"  />
   </a>
+</div>
+
+###
+
+<div data-importer="border" align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=70&textBg=false&color=ff1221"  />
 </div>
